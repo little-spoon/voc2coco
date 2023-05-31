@@ -17,6 +17,8 @@ cut_video.py 剪视频
 
 rename.py 批量重命名文件
 
+count_json.py 更详细的统计json格式文件的各类信息
+
 # 使用步骤
 1. 安装requirements.txt内的包
 > pip install -r requirements.txt
